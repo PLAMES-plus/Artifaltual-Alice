@@ -1,2 +1,2 @@
-# Artifaltual-Alice
+# Artificial-Alice
 First Game of PLAMS+
